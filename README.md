@@ -232,7 +232,7 @@ def read_item(item_id: int, q: str = None):
 * You should now have a directory structure like:
 
 ```
-.
+.x1
 ├── app
 │   └── main.py
 └── Dockerfile
